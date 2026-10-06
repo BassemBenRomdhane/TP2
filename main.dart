@@ -14,8 +14,9 @@ void main() {
  
   // TODO 4 : afficher la moyenne arrondie à 2 décimales 
   print("moy = ${moyenne.toStringAsFixed(2)}");
+  print("anneeCourante = $anneeCourante");
   // indice : moyenne.toStringAsFixed(2) 
  
   // TODO 5 : décommenter la ligne suivante, lire l'erreur, puis la commenter 
-  tva = 0.20; 
+  //tva = 0.20; 
 } 
